@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "SKYGEN 2",
+        "description": "Add-on do serwera SKYGEN 2",
+        "uuid": "8d999d99-5a93-4a98-a73f-54384feb92c0",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "bc3ca6e8-8151-40bf-8dab-5038760f4bb3",
+            "version": [1, 0, 0]
+        }
+    ],
+    "metadata": {
+        "product_type": "addon"
+    }
+}
