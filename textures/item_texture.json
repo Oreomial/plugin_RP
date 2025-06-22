@@ -3,7 +3,10 @@
     "texture_name": "atlas.items",
     "texture_data": {
         "skygen:book": {
-            "textures": "textures/items/book.png"
+            "textures": "textures/items/skygen_book.png"
+        },
+        "skygen:stick": {
+            "textures": "textures/items/skygen_stick.png"
         }
     }
 }

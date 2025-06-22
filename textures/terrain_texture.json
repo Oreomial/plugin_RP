@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "SKYGEN 2",
+    "texture_name": "atlas.terrain",
+    "texture_data": {
+        "skygen:allowi": {
+            "textures": "textures/blocks/allowi.png"
+        }
+    }
+}
