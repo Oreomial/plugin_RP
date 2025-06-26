@@ -3,7 +3,33 @@
     "texture_name": "atlas.terrain",
     "texture_data": {
         "skygen:allowi": {
-            "textures": "textures/blocks/allowi.png"
-        }
+            "textures": "textures/blocks/skygen_allowi"
+        },
+        "skygen:hay_block_side": { "textures": "textures/blocks/skygen_hay_block_side" },
+        "skygen:hay_block_top": { "textures": "textures/blocks/skygen_hay_block_top" },
+        "skygen:coal_block": { "textures": "textures/blocks/skygen_coal_block" },
+        "skygen:dried_kelp_side_a": { "textures": "textures/blocks/skygen_dried_kelp_side_a" },
+        "skygen:dried_kelp_side_b": { "textures": "textures/blocks/skygen_dried_kelp_side_b" },
+        "skygen:dried_kelp_top": { "textures": "textures/blocks/skygen_dried_kelp_top" },
+        "skygen:brick": { "textures": "textures/blocks/skygen_brick" },
+        "skygen:honeycomb": { "textures": "textures/blocks/skygen_honeycomb" },
+        "skygen:copper_block": { "textures": "textures/blocks/skygen_copper_block" },
+        "skygen:iron_block": { "textures": "textures/blocks/skygen_iron_block" },
+        "skygen:slime": { "textures": "textures/blocks/skygen_slime" },
+        "skygen:redstone_block": { "textures": "textures/blocks/skygen_redstone_block" },
+        "skygen:gold_block": { "textures": "textures/blocks/skygen_gold_block" },
+        "skygen:nether_wart_block": { "textures": "textures/blocks/skygen_nether_wart_block" },
+        "skygen:nether_brick": { "textures": "textures/blocks/skygen_nether_brick" },
+        "skygen:glowstone": { "textures": "textures/blocks/skygen_glowstone" },
+        "skygen:quartz_block_side": { "textures": "textures/blocks/skygen_quartz_block_side" },
+        "skygen:quartz_block_top": { "textures": "textures/blocks/skygen_quartz_block_top" },
+        "skygen:quartz_block_bottom": { "textures": "textures/blocks/skygen_quartz_block_bottom" },
+        "skygen:amethyst_block": { "textures": "textures/blocks/skygen_amethyst_block" },
+        "skygen:emerald_block": { "textures": "textures/blocks/skygen_emerald_block" },
+        "skygen:diamond_block": { "textures": "textures/blocks/skygen_diamond_block" },
+        "skygen:prismarine_bricks": { "textures": "textures/blocks/skygen_prismarine_bricks" },
+        "skygen:ancient_debris_side": { "textures": "textures/blocks/skygen_ancient_debris_side" },
+        "skygen:ancient_debris_top": { "textures": "textures/blocks/skygen_ancient_debris_top" },
+        "skygen:netherite_block": { "textures": "textures/blocks/skygen_netherite_block" }
     }
 }
